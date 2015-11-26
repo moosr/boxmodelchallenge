@@ -1,0 +1,74 @@
+
+/* Don't change this rule */
+span {
+	border: 2px solid black;
+	display: inline-block;
+	padding: 10px;
+}
+
+/* Only change border properties on the following */
+
+.a {
+	border-width: 3px;
+	border-color: green;
+	border-style: dashed;
+}
+
+.b {
+	border-width: 15px;
+	border-color: orange;
+	border-style: solid;
+}
+
+.c {
+	border-width: 5px;
+	border-color: purple;
+	border-style: double;
+}
+
+.d {
+	border-width: 66px;
+	border-color: red;
+	border-style: dashed;
+}
+
+.e {
+	border-width: 42px;
+	border-color: black;
+	border-style: dashed;
+}
+
+
+/* Only change padding and margin properties on the following */
+
+.f {margin-top: 40px;
+	margin-right: 80px;
+	margin-bottom: 72px;
+	margin-left: 5px;
+	padding-top: 100px;
+	
+}
+
+.g {
+	
+}
+
+.h {
+	
+}
+
+.i {
+
+}
+
+.j {
+
+}
+
+.k {
+
+}
+
+.l {
+
+}
